@@ -36,7 +36,9 @@ A simple command-line task management application built with Go.
 
 Run the application:
 ```
-./task-cli
+./task-cli in Linux/macOS:
+
+tasktracker.exe in Windows
 ```
 
 ### Menu Options
@@ -214,7 +216,9 @@ Uma aplicação simples de gerenciamento de tarefas via linha de comando constru
 
 Execute a aplicação:
 ```
-./task-cli
+./task-cli para Linux/macOS
+
+tasktracker.exe para Windows
 ```
 
 ### Opções do Menu
