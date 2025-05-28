@@ -1,3 +1,3 @@
-module Task_Tracker_CLI
+module github.com/leonardovfcruz/tasktracker
 
 go 1.24
